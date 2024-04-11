@@ -1,0 +1,63 @@
+{
+  "listUser": [
+    {
+      "name": "Mark Webber",
+      "post": "reacted to your recent post",
+      "reaction": "My first tournament today!",
+      "time": " 1m ago",
+      "notification": "true",
+      "avatar": "/src/assets/images/avatar-mark-webber.webp"
+    },
+    {
+      "name": "Angela Gray",
+      "post": "",
+      "reaction": "followed you!",
+      "time": " 5m ago",
+      "notification": "true",
+      "avatar": "/src/assets/images/avatar-angela-gray.webp"
+    },
+    {
+      "name": "Jacob Thompson",
+      "post": "has joined your group",
+      "reaction": "Chess Club",
+      "time": " 1 day ago",
+      "notification": "false",
+      "avatar": "/src/assets/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "name": "Rizky Hasanuddin",
+      "post": "has joined your group",
+      "reaction": "Chess Club",
+      "time": " 5 days ago",
+      "notification": "true",
+      "avatar": "/src/assets/images/avatar-rizky-hasanuddin.webp",
+      "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
+    },
+
+    {
+      "name": "Kimberly Smith",
+      "post": "commented on your picture",
+      "reaction": "",
+      "time": " 1 week ago",
+      "notification": "false",
+      "avatar": "/src/assets/images/avatar-kimberly-smith.webp",
+      "imgChest": "/src/assets/images/image-chess.webp"
+    },
+    {
+      "name": "Nathan Peterson",
+      "post": "reacted to your recent post 5",
+      "reaction": "",
+      "time": " 2 weeks ago",
+      "notification": "true",
+      "avatar": "/src/assets/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "name": "Anna Kim",
+      "post": "left the group",
+      "reaction": "Chess Club ",
+      "time": " 2 weeks ago",
+      "notification": "true",
+      "avatar": "/src/assets/images/avatar-anna-kim.webp"
+    }
+  ]
+}
