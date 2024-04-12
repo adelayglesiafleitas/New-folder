@@ -47,7 +47,7 @@
   transform: scale(1.5);
 }
 
-.post .no-read {
+.post .not-read {
   display: inline-block;
   width: 8px;
   height: 8px;

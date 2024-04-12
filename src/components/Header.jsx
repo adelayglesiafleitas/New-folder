@@ -1,7 +1,7 @@
 import "../styles/Header.css";
-const Header = ({ notificationHoock, setNotification, setMarkAll }) => {
+const Header = ({ notificationState, setNotificationState, setMarkAll }) => {
   const handleClick = () => {
-    setNotification(0);
+    setNotificationState(0);
     setMarkAll(true);
   };
   return (
@@ -9,7 +9,7 @@ const Header = ({ notificationHoock, setNotification, setMarkAll }) => {
       <header>
         <div className="notification">
           <h3 className="title">
-            Notifications<span className="number">{notificationHoock}</span>
+            Notifications<span className="number">{notificationState}</span>
           </h3>
           <p className="mark" onClick={handleClick}>
             Mark all as read

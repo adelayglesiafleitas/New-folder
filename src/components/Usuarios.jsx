@@ -2,30 +2,18 @@ import "../styles/Usuarios.css";
 import { useState, useEffect } from "react";
 
 const Usuarios = ({
-  name,
-  post,
-  reaction,
-  time,
-  avatar,
-  messaje,
-  imgChest,
-  notification,
-  setNotification,
-  notificationHoock,
-  markAll,
-}) => {
+  name,  post,  reaction,  time,  avatar,  messaje,  imgChest,  notification,  setNotificationState,  notificationState,  markAll,}) => {
   const [userNotification, setUserNotification] = useState(false);
 
   useEffect(() => {
-    if (notification === "true") {
+    if (notification === true) {
       setUserNotification(true);
     }
   }, [notification]);
-  
 
-  const handleClick = () => {
+  const readToggle = () => {
     userNotification == true ? setUserNotification(false) : "";
-    setNotification((notificationHoock) => notificationHoock - 1);
+    setNotificationState((notificationState) => notificationState - 1);
   };
 
   return (
@@ -38,8 +26,8 @@ const Usuarios = ({
             <span>{post}</span>
             <span className="reaction">{reaction}</span>
             <span
-              className={`status ${userNotification ? "no-read" : ""}`}
-              onClick={handleClick}
+              className={`status ${userNotification ? "not-read" : ""}`}
+              onClick={readToggle}
             ></span>
           </p>
           <p className="time">{time}</p>
