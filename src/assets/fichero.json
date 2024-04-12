@@ -6,7 +6,7 @@
       "reaction": "My first tournament today!",
       "time": " 1m ago",
       "notification": "true",
-      "avatar": "../assets/images/avatar-mark-webber.jpg"
+      "avatar": "main/src/assets/images/avatar-mark-webber.jpg"
     },
     {
       "name": "Angela Gray",
