@@ -26,7 +26,7 @@ const Usuarios = ({
             <span>{post}</span>
             <span className="reaction">{reaction}</span>
             <span
-              className={`status ${userNotification ? "not-read" : ""}`}
+              className={`status ${userNotification && !markAll  ? "not-read" : ""}`}
               onClick={readToggle}
             ></span>
           </p>
