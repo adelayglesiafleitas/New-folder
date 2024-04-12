@@ -6,7 +6,7 @@
       "reaction": "My first tournament today!",
       "time": " 1m ago",
       "notification": "true",
-      "avatar": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/avatar-mark-webber.webp?token=GHSAT0AAAAAACQIRRJPGTYWTCPRCGV5J6W2ZQYXYOA"
+      "avatar": "src/assets/images/avatar-mark-webber.jpg"
     },
     {
       "name": "Angela Gray",
@@ -14,7 +14,7 @@
       "reaction": "followed you!",
       "time": " 5m ago",
       "notification": "true",
-      "avatar": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/avatar-angela-gray.webp?token=GHSAT0AAAAAACQIRRJOCNK7AZAA5DXNHOUIZQYX6AQ"
+      "avatar": "src/assets/images/avatar-angela-gray.webp"
     },
     {
       "name": "Jacob Thompson",
@@ -22,7 +22,7 @@
       "reaction": "Chess Club",
       "time": " 1 day ago",
       "notification": "false",
-      "avatar": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/avatar-jacob-thompson.webp?token=GHSAT0AAAAAACQIRRJOQR3OABAFAKX4QJGIZQYX6QQ"
+      "avatar": "src/assets/images/avatar-jacob-thompson.webp"
     },
     {
       "name": "Rizky Hasanuddin",
@@ -30,7 +30,7 @@
       "reaction": "Chess Club",
       "time": " 5 days ago",
       "notification": "true",
-      "avatar": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/avatar-rizky-hasanuddin.webp?token=GHSAT0AAAAAACQIRRJP6EP6UGJDSROIX5Z6ZQYX7CA",
+      "avatar": "src/assets/images/avatar-rizky-hasanuddin.webp",
       "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
     },
 
@@ -40,8 +40,8 @@
       "reaction": "",
       "time": " 1 week ago",
       "notification": "false",
-      "avatar": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/avatar-kimberly-smith.webp?token=GHSAT0AAAAAACQIRRJOQQTCRTSA2G7WSNLMZQYXZTQ",
-      "imgChest": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/image-chess.webp?token=GHSAT0AAAAAACQIRRJP3QSDOASW5CUCI6DOZQYX2BA"
+      "avatar": "src/assets/images/avatar-kimberly-smith.webp",
+      "imgChest": "src/assets/images/image-chess.webp"
     },
     {
       "name": "Nathan Peterson",
@@ -49,7 +49,7 @@
       "reaction": "",
       "time": " 2 weeks ago",
       "notification": "true",
-      "avatar": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/avatar-nathan-peterson.webp?token=GHSAT0AAAAAACQIRRJPOFY4RLD4H7KZUQWSZQYX2RQ"
+      "avatar": "src/assets/images/avatar-nathan-peterson.webp"
     },
     {
       "name": "Anna Kim",
@@ -57,7 +57,7 @@
       "reaction": "Chess Club ",
       "time": " 2 weeks ago",
       "notification": "true",
-      "avatar": "https://raw.githubusercontent.com/adelayglesiafleitas/New-folder/main/src/assets/images/avatar-anna-kim.webp?token=GHSAT0AAAAAACQIRRJOKYGJGA37E7MMHWIAZQYX27A"
+      "avatar": "src/assets/images/avatar-anna-kim.webp"
     }
   ]
 }
