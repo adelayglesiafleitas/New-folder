@@ -6,7 +6,7 @@
       "reaction": "My first tournament today!",
       "time": " 1m ago",
       "notification": "true",
-      "avatar": "src/assets/images/avatar-mark-webber.jpg"
+      "avatar": "../assets/images/avatar-mark-webber.jpg"
     },
     {
       "name": "Angela Gray",
@@ -14,7 +14,7 @@
       "reaction": "followed you!",
       "time": " 5m ago",
       "notification": "true",
-      "avatar": "New-folder/src/assets/images/avatar-angela-gray.webp"
+      "avatar": "src/assets/images/avatar-angela-gray.webp"
     },
     {
       "name": "Jacob Thompson",
