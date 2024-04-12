@@ -6,13 +6,7 @@
       "reaction": "My first tournament today!",
       "time": " 1m ago",
       "notification": "true",
-      "avatar": "https://github.com/adelayglesiafleitas/New-folder/blob/main/src/assets/images/avatar-mark-webber.jpg"
-
-
-  
-
-
-
+      "avatar": "src/assets/images/avatar-mark-webber.jpg"   
 
     },
     {
@@ -29,7 +23,7 @@
       "reaction": "Chess Club",
       "time": " 1 day ago",
       "notification": "false",
-      "avatar": "New-folder/src/assets/images/avatar-jacob-thompson.webp"
+      "avatar": "src/assets/images/avatar-jacob-thompson.webp"
     },
     {
       "name": "Rizky Hasanuddin",
@@ -37,8 +31,8 @@
       "reaction": "Chess Club",
       "time": " 5 days ago",
       "notification": "true",
-      "avatar": "New-folder/src/assets/images/avatar-rizky-hasanuddin.webp",
-      "message": "New-folder/Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
+      "avatar": "src/assets/images/avatar-rizky-hasanuddin.webp",
+      "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
     },
 
     {
@@ -47,8 +41,8 @@
       "reaction": "",
       "time": " 1 week ago",
       "notification": "false",
-      "avatar": "New-folder/src/assets/images/avatar-kimberly-smith.webp",
-      "imgChest": "New-folder/src/assets/images/image-chess.webp"
+      "avatar": "src/assets/images/avatar-kimberly-smith.webp",
+      "imgChest": "src/assets/images/image-chess.webp"
     },
     {
       "name": "Nathan Peterson",
@@ -56,7 +50,7 @@
       "reaction": "",
       "time": " 2 weeks ago",
       "notification": "true",
-      "avatar": "New-folder/src/assets/images/avatar-nathan-peterson.webp"
+      "avatar": "src/assets/images/avatar-nathan-peterson.webp"
     },
     {
       "name": "Anna Kim",
@@ -64,7 +58,7 @@
       "reaction": "Chess Club ",
       "time": " 2 weeks ago",
       "notification": "true",
-      "avatar": "New-folder/src/assets/images/avatar-anna-kim.webp"
+      "avatar": "src/assets/images/avatar-anna-kim.webp"
     }
   ]
 }
