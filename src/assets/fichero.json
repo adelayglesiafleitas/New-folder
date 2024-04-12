@@ -31,7 +31,7 @@
       "reaction": "Chess Club",
       "time": " 5 days ago",
       "notification": "true",
-      "avatar": "src/assets/images/avatar-rizky-hasanuddin.webp",
+      "avatar": "./images/avatar-rizky-hasanuddin.webp",
       "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
     },
 
@@ -41,7 +41,7 @@
       "reaction": "",
       "time": " 1 week ago",
       "notification": "false",
-      "avatar": "src/assets/images/avatar-kimberly-smith.webp",
+      "avatar": "../images/avatar-kimberly-smith.webp",
       "imgChest": "src/assets/images/image-chess.webp"
     },
     {
