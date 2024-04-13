@@ -18,7 +18,7 @@ const Usuarios = ({
 
   return (
     <>
-      <div className={`post ${userNotification? "classNotification" :""}`}>
+      <div className={`post ${userNotification && !markAll? "classNotification" :""}`}>
         <img className="image" src={avatar} alt="avatar" />
         <div className="allText">
           <p>
