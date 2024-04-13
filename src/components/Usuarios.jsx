@@ -2,7 +2,7 @@ import "../styles/Usuarios.css";
 import { useState, useEffect } from "react";
 
 const Usuarios = ({
-  name,  post,  reaction,  time,  avatar,  messaje,  imgChest,  notification,  setNotificationState,  notificationState,  markAll,}) => {
+  name,  post,  reaction,  time,  avatar,  message,  imgChest,  notification,  setNotificationState,  notificationState,  markAll,}) => {
   const [userNotification, setUserNotification] = useState(false);
 
   useEffect(() => {
@@ -32,9 +32,9 @@ const Usuarios = ({
           </p>
           <p className="time">{time}</p>
 
-          {typeof messaje !== "undefined" && (
+          {typeof message !== "undefined" && (
             <div className="message-container">
-              <p className="message">{messaje}</p>
+              <p className="message">{message}</p>
             </div>
           )}
         </div>
