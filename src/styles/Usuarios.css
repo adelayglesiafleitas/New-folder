@@ -11,7 +11,6 @@
 }
 
 .post {
-  background-color: var(--Very-light-grayish-blue);
   border-radius: 8px;
   display: flex;
   gap: 13px;
@@ -21,6 +20,10 @@
   color: var(--Dark-grayish-blue);
   max-width: 433px;
   position: relative;
+}
+
+.classNotification {
+  background-color: var(--Very-light-grayish-blue);
 }
 
 .post .image {
@@ -74,4 +77,3 @@
   right: 0;
   margin-right: 16px;
 }
-

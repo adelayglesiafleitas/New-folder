@@ -18,7 +18,7 @@ const Usuarios = ({
 
   return (
     <>
-      <div className="post">
+      <div className={`post ${userNotification? "classNotification" :""}`}>
         <img className="image" src={avatar} alt="avatar" />
         <div className="allText">
           <p>
